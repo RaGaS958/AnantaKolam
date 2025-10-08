@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=🌸+AnantaKolam+🌸;Preserving+Heritage;Through+AI+and+AR;Team+Pixel;Smart+India+Hackathon+2025" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://github.com/raGaS958/AnantaKolam/assets/000000/banner-wave.gif" width="80%">
-</p>
+
 
 ---
 
