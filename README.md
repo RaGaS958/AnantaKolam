@@ -121,6 +121,6 @@ D --> E[🚀 Deployment];
 
 
 ---
-<p align="center"> <img src="https://github.com/RaGaS958/AnantaKolam/assets/footer-kolam.gif" width="600" alt="Kolam Animation"/> </p> <h3 align="center">“Bridging tradition and technology — one Kolam at a time.”</h3> <p align="center">— <b>Team Pixel | Smart India Hackathon 2025</b></p>
+ <h3 align="center">“Bridging tradition and technology — one Kolam at a time.”</h3> <p align="center">— <b>Team Pixel | Smart India Hackathon 2025</b></p>
 
 
