@@ -1,6 +1,16 @@
-# 🌀 **AnantaKolam**  
-### *Preserving Heritage Through AI + AR*  
+<!-- ✨ Animated Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=🌸+AnantaKolam+🌸;Preserving+Heritage;Through+AI+and+AR;Team+Pixel;Smart+India+Hackathon+2025" alt="Typing SVG">
+</p>
 
+<p align="center">
+  <img src="https://github.com/raGaS958/AnantaKolam/assets/000000/banner-wave.gif" width="80%">
+</p>
+
+---
+
+<h1 align="center">🌀 <b>AnantaKolam</b></h1>
+<h3 align="center">Preserving Heritage Through AI + AR</h3>
 
 ---
 
@@ -37,6 +47,9 @@ To digitally **revive, teach, and preserve Kolam art** through AI-driven underst
 ---
 
 ## 🧰 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,python,tensorflow,firebase,vercel,github,opencv" />
+</p>
 
 | Layer | Technologies |
 |-------|---------------|
@@ -50,12 +63,13 @@ To digitally **revive, teach, and preserve Kolam art** through AI-driven underst
 ---
 
 ## 🔬 **Development Process**
-1. **Research & Requirement Gathering** – Studied Kolam patterns and cultural essence.  
-2. **Design Phase** – Created AR flow wireframes and UI mockups.  
-3. **Development** – Built React frontend, Firebase backend, and AI/AR modules.  
-4. **Testing & Feedback** – User testing for AR detection and AI precision.  
-5. **Deployment** – Continuous integration via GitHub Actions and deployment on Vercel/Heroku.
-
+```mermaid
+graph TD;
+A[📚 Research & Requirement Gathering] --> B[🎨 Design Phase];
+B --> C[💻 Development];
+C --> D[🧪 Testing & Feedback];
+D --> E[🚀 Deployment];
+```
 ---
 
 ## 🌍 **Impact & Benefits**
@@ -107,11 +121,8 @@ To digitally **revive, teach, and preserve Kolam art** through AI-driven underst
   - Train AI models for better pattern generalization  
   - Launch live demo and open-source community  
 
----
-
-
-> “Bridging tradition and technology — one Kolam at a time.”  
-> — *Team Pixel, Smart India Hackathon 2025*
 
 ---
+<p align="center"> <img src="https://github.com/RaGaS958/AnantaKolam/assets/footer-kolam.gif" width="600" alt="Kolam Animation"/> </p> <h3 align="center">“Bridging tradition and technology — one Kolam at a time.”</h3> <p align="center">— <b>Team Pixel | Smart India Hackathon 2025</b></p>
+
 
